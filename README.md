@@ -55,25 +55,25 @@ Once the application is running, you can use various features from interactive U
 ## Screenshots
 Here are some screenshots showcasing working deployments of the application.
 - Home page:
-  <img width="1728" alt="1_home" src="https://github.com/user-attachments/assets/81585e8e-59af-4a93-916e-c961713eb2c4" />
+  <img width="1728" alt="1_home" src="https://github.com/user-attachments/assets/80b97d9a-edb5-42c8-ac18-2409e10cc7b8" />
 
 - Set configuration credentials:
-  <img width="1727" alt="2_config" src="https://github.com/user-attachments/assets/7c81d95c-437c-413f-922f-fe894e5df98a" />
+  <img width="1727" alt="2_config" src="https://github.com/user-attachments/assets/6ba0846d-f89e-4608-8c3f-3ccf2a74a42f" />
 
 - Filled template downloaded from _Template Creation_ page:
-  <img width="1510" alt="3_filled_template" src="https://github.com/user-attachments/assets/44a87b15-97c8-4501-a598-55fd27d6d44e" />
+  <img width="1510" alt="3_filled_template" src="https://github.com/user-attachments/assets/e2b1cf4c-9a17-48ca-b627-e60fabd0a4f0" />
 
 - _Upload Excel_ page:
-  <img width="1720" alt="4_upload" src="https://github.com/user-attachments/assets/e7cd8ee0-cf9a-483a-8d5c-abceb6a51922" />
+  <img width="1720" alt="4_upload" src="https://github.com/user-attachments/assets/4afb208e-fec5-4281-9dcb-a96478ef9002" />
 
 - Response for uploaded data, with success as well as error scenarios:
-  <img width="1728" alt="5_upload_response" src="https://github.com/user-attachments/assets/759bb868-b6c7-4adb-8168-26f9e66ac4cd" />
+  <img width="1728" alt="5_upload_response" src="https://github.com/user-attachments/assets/5ecd9171-7f8d-4019-b2ce-0bd1521fd695" />
 
 - Excel exported for upload response data:
-  <img width="1509" alt="6_response_export" src="https://github.com/user-attachments/assets/a4eafd8c-fa1d-408f-9997-576dad7ced9f" />
+  <img width="1509" alt="6_response_export" src="https://github.com/user-attachments/assets/53b28d17-a1ca-421c-9f9b-2295e9d446dc" />
 
 - Generative AI based language translation:
-  <img width="1728" alt="7_ai_translate" src="https://github.com/user-attachments/assets/70d9c1bc-71a4-4acb-8971-443ae41fb5d7" />
+  <img width="1728" alt="7_ai_translate" src="https://github.com/user-attachments/assets/ddd57cc6-8222-40f2-bdfa-c0475bc8f653" />
 
 
 ## License
