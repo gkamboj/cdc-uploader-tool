@@ -62,21 +62,6 @@
         function initTranslation() {
             const languageCheckboxes = document.querySelectorAll('.dropdown-menu .form-check-input');
 
-            /* const selectAllCheckbox = document.getElementById('selectAllCheckbox');
-            const languageCheckboxes = document.querySelectorAll('.dropdown-menu .form-check-input:not(#selectAllCheckbox)');
-
-            selectAllCheckbox.addEventListener('change', function () {
-                languageCheckboxes.forEach(checkbox => {
-                    checkbox.checked = this.checked;
-                });
-            });
-
-            languageCheckboxes.forEach(checkbox => {
-                checkbox.addEventListener('change', function () {
-                    selectAllCheckbox.checked = Array.from(languageCheckboxes).every(checkbox => checkbox.checked);
-                });
-            }); */
-
             async function translateWithoutWait() {
                 const inputText = await getInputText();
                 const translationsBody = document.getElementById('translationsBody');
