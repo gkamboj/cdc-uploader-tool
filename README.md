@@ -50,7 +50,8 @@ After cloning the repository, follow these steps to set up the project:
 Open your web browser and navigate to [http://localhost:5001/](http://localhost:5001/) (or the appropriate port if different).
 
 ## Usage
-Once the application is running, you can use various features from interactive UI.
+   - Once the application is running, you can use various features from interactive UI.
+   - To access Swagger UI, go to [http://localhost:5001/ui](http://localhost:5001/ui)
 
 ## Screenshots
 Here are some screenshots showcasing working deployments of the application.
